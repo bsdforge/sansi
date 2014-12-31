@@ -24,7 +24,9 @@ pager, or text editor;
 
 Enter **sansi**.
 
-** ACKNOWLEDGEMENTS** John Marino It probably would have never occurred to me
+** ACKNOWLEDGEMENTS**
+
+John Marino It probably would have never occurred to me
 to release this, except that I thought it might help him, and the other
 committers. I hoped it might help him after all the [unintentional] grief
 I've caused him. Thanks for your patience, John!
