@@ -24,7 +24,7 @@ pager, or text editor;
 
 Enter **sansi**.
 
-** ACKNOWLEDGEMENTS**
+## ACKNOWLEDGEMENTS
 
 John Marino It probably would have never occurred to me
 to release this, except that I thought it might help him, and the other
